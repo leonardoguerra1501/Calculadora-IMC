@@ -15,7 +15,7 @@ printf("###########################\n");
         char sexo;
 
 
-        //Lendo os imputs
+        //Lendo os inputs
         printf("Escreva o seu peso em KG:\n");
         scanf("%f",&peso);
         printf("Escreva a sua altura:\n");
